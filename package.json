@@ -1,0 +1,32 @@
+{
+  "name": "filename-utils",
+  "description": "A tiny yet powerfull collection of utils for processing filenames compareable to Apaches FilenameUtils for Java.",
+  "version": "1.0.0",
+  "author": "Tobias Dittmann <hello@ditsche.dev> (https://ditsche.dev)",
+  "main": "dist/index.js",
+  "repository": "https://github.com/ditschedev/filename-utils",
+  "homepage": "https://github.com/ditschedev/filename-utils",
+  "license": "MIT",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "jest --config=jest.config.json",
+    "release": "yarn test && standard-version && git push --follow-tags && npm publish"
+  },
+  "keywords": [
+    "filename",
+    "extension",
+    "filenameUtils",
+    "filename utils",
+    "utils",
+    "util",
+    "io"
+  ],
+  "devDependencies": {
+    "@types/jest": "^25.2.1",
+    "jest": "^25.5.4",
+    "standard-version": "^7.1.0",
+    "ts-jest": "^25.4.0",
+    "typescript": "^3.8.3"
+  }
+}
