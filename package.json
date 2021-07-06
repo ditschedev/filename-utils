@@ -1,7 +1,7 @@
 {
   "name": "filename-utils",
   "description": "A tiny yet powerfull collection of utils for processing filenames compareable to Apaches FilenameUtils for Java.",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "author": "Tobias Dittmann <hello@ditsche.dev> (https://ditsche.dev)",
   "main": "dist/index.js",
   "repository": "https://github.com/ditschedev/filename-utils",
