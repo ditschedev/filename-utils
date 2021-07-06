@@ -3,7 +3,7 @@ A tiny module written in TypeScript to help you with your filenames. A JavaScrip
 class.
 
 ![build](https://img.shields.io/github/workflow/status/ditschedev/filename-utils/ci?style=for-the-badge)
-![npm version](https://badge.fury.io/js/filename-utils.svg)
+![npm version](https://img.shields.io/github/package-json/v/ditschedev/filename-utils?style=for-the-badge)
 ![npm downloads](https://img.shields.io/npm/dt/filename-utils?style=for-the-badge)
 ![dependencies](https://david-dm.org/ditschedev/filename-utils.svg)
 ![License](https://img.shields.io/github/license/ditschedev/filename-utils?style=for-the-badge)
